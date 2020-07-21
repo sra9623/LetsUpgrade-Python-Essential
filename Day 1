@@ -1,0 +1,24 @@
+Q1=What is Python?What are the ways to install Python?
+
+Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991
+Ways to install python
+--------
+Step 1-go to anaconda navigation installer. Search for Python 3 version for the pc.
+Step 2- start installation
+Step 4-Open the Anaconda Navigator.
+Step 5-Click on Jupiter notebooks Open it.
+Step 6. Select a new option to create folder and rename it
+Step 7- Then select on new Python 3 and start coding.
+
+
+
+
+Q2=What is code environment?And types?
+Code environment is a set of processes and tools that are used to develop a source code or program. This term is sometimes used synonymously with integrated development environment (IDE), which is the software development tool used to write, build, test and debug a program code environment types :-
+NETBEANS.
+INTELLIJ IDEA.
+ECLIPSE.
+Code:: Blocks.
+Pycharm.
+Aptana Studio 3.
+Xcode.
